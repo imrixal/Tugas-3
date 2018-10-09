@@ -1,0 +1,10 @@
+C:\Users\Anjas\source\repos\LatihanWinForm\LatihanWinForm\bin\Release\LatihanWinForm.exe.config
+C:\Users\Anjas\source\repos\LatihanWinForm\LatihanWinForm\bin\Release\LatihanWinForm.exe
+C:\Users\Anjas\source\repos\LatihanWinForm\LatihanWinForm\bin\Release\LatihanWinForm.pdb
+C:\Users\Anjas\source\repos\LatihanWinForm\LatihanWinForm\obj\Release\LatihanWinForm.Form1.resources
+C:\Users\Anjas\source\repos\LatihanWinForm\LatihanWinForm\obj\Release\LatihanWinForm.FrmListMahasiswa.resources
+C:\Users\Anjas\source\repos\LatihanWinForm\LatihanWinForm\obj\Release\LatihanWinForm.Properties.Resources.resources
+C:\Users\Anjas\source\repos\LatihanWinForm\LatihanWinForm\obj\Release\LatihanWinForm.csproj.GenerateResource.Cache
+C:\Users\Anjas\source\repos\LatihanWinForm\LatihanWinForm\obj\Release\LatihanWinForm.csproj.CoreCompileInputs.cache
+C:\Users\Anjas\source\repos\LatihanWinForm\LatihanWinForm\obj\Release\LatihanWinForm.exe
+C:\Users\Anjas\source\repos\LatihanWinForm\LatihanWinForm\obj\Release\LatihanWinForm.pdb
